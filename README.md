@@ -10,7 +10,7 @@
   - CSS/Sass
   - Flexbox
   - Javascript
-  - [GamePowerAPI] (https://www.gamerpower.com/api-read)
+  - [GamePowerAPI](https://www.gamerpower.com/api-read)
 
 ## Live Site / Site no ar 
  - Logo mais atualizado / Update soon
