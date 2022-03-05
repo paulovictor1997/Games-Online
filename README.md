@@ -13,4 +13,4 @@
   - [GamePowerAPI](https://www.gamerpower.com/api-read)
 
 ## Live Site / Site no ar 
- - Logo mais atualizado / Update soon
+ - Live site - [https://paulovictor1997.github.io/Games-Online/](https://paulovictor1997.github.io/Games-Online/)
